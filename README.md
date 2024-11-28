@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @feri38
+- 👋 Hi, I’m @CE-Fariborz
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning c++, c#, django
 - 💞️ I’m looking to collaborate on ...
